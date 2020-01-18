@@ -18,7 +18,7 @@ public HomePageTest(){
 } 
 	
 @Test
-public void verifyWomenTabs12()
+public void verifyWomenTabs1209877()
 {
 	Assert.assertTrue(hp.getWomenTab().isDisplayed());
 }
