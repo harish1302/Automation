@@ -74,7 +74,7 @@ public WebElement getSizeS()
 
 public WebElement toDressesTab()
 {
-	return Dresses;
+	return Dresses12345;
 }
 
 
