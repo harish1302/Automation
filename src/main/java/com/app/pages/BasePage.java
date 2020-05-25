@@ -57,6 +57,7 @@ public class BasePage
 			element.sendKeys(name);
 		}
 	}
+	int a = 0;
 
 	public String getTxtAttribute(WebElement element) 
 	{
